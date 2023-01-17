@@ -1,0 +1,25 @@
+main:
+  - title: "Syllabus"
+    url: /syllabus/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Github"
+    url: https://github.com/CSCI-4611-Spring-2023
+
+side:
+  - title: Getting Help
+    children:
+        - title: Office Hours
+          url: /office-hours/
+        - title: Piazza
+          url: https://piazza.com/umn/spring2023/csci4611
+  - title: Resources
+    children:
+      - title: Canvas
+        url: https://canvas.umn.edu/courses/355329
+      - title: TypeScript
+        url: https://www.typescriptlang.org/docs/
+      - title: VS Code
+        url: https://code.visualstudio.com/
+      - title: Node.js
+        url: https://nodejs.org/
