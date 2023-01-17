@@ -66,7 +66,7 @@ Please note that this schedule is tentative and subject to change as the semeste
 | 4/13/23 || Lecture 24: Ray Casting |
 | 4/17/23 || **Quiz 6 Due** |
 | 4/18/23 || Lecture 25: Ray Casting for 3D Interaction |
-| 4/20/23 || **Assignment 6 Due** |
+| 4/24/23 || **Assignment 6 Due** |
 
 ## Wrap-Up and Review
 
