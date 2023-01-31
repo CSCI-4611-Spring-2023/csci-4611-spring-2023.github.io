@@ -12,7 +12,8 @@ classes: wide
 
 #### Group Study Session
 
-Each week, Frank will hold a 2-hour group study session, which will be scheduled soon. They will go over some of the theory behind what is taught, and will be available to answer questions or go into further detail.  These sessions are open to all, and you do not need to schedule an appointment in advance.
+Each week, Frank will hold a group study session that is open to all students. They will go over some of the theory behind what is taught and will be available to answer questions or go into further detail.  You do not need to schedule an appointment in advance.
+- **Wednesdays** from 5-6pm in Keller 2-209.
 
 
 #### Individual Meetings with TAs
