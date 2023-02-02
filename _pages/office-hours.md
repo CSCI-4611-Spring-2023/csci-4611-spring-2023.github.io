@@ -23,4 +23,4 @@ Each week, Frank will hold a group study session that is open to all students. T
 
 #### Individual Meetings with the Professor
 
-- [**Online Appointment System**](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3vkTWj_UelImht1kmzKO_wPMA2fjFl3nEqH0oz-rEgINDbX5XmDQSShCmw-TCwuJ5ktfk9iNY1).  Please use this to schedule an in-person meeting with the instructor.  These time slots are limited, so they should primarily be used for questions that need to be discussed with me specifically and cannot be addressed by the TAs.  If there are no appointment slots available, please reach out to me directly, and I will be happy to schedule a meeting with you.
+- [**Meeting Request Form**](https://forms.gle/5iMyrHdrgmwmcYSE9). I am also happy to meet with students directly. However, please note that my schedule does tend to be very full, so these meetings should primarily be used for questions that need to be discussed with me specifically and cannot be addressed by the TAs. To request a meeting with me, please specify a few potential timeslots using this form, and I will send you a meeting invitation.
