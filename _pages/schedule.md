@@ -45,33 +45,28 @@ Please note that this schedule is tentative and subject to change as the semeste
 | 3/14/23 || Lecture 15: Scene Hierarchy |
 | 3/16/23 || Lecture 16: Programming Hierarchical Transformations |
 | 3/20/23 || **Quiz 4 Due** |
-| 3/21/23 || Lecture 17: Animation and Inverse Kinematics |
-| 3/23/23 || Lecture 18: Keyframing and Splines |
-| 3/27/23 || **Assignment 4 Due** |
+| 3/21/23 || Lecture 17: Animation and Kinematics |
+| 3/23/23 || Lecture 18: Sprite Animation in 3D Games |
+| 3/29/23 || **Assignment 4 Due** |
 
 ## Module 5: Lighting and Shader Programs
 
-| 3/28/23 || Lecture 19: Lighting and Shading |
-| 3/30/23 || Lecture 20: Graphics Pipeline and Shaders |
-| 4/3/23 || **Quiz 5 Due** |
-| 4/4/23 || Lecture 21: Shader Programming (Part 1) |
-| 4/6/23 || Lecture 22: Shader Programming (Part 2) |
-| 4/10/23 || **Assignment 5 Due** |
-
-
+| 3/30/23 || Lecture 19: Graphics Pipeline and Shaders |
+| 4/4/23 || Lecture 20: Lighting and Shading |
+| 4/6/23 || Lecture 21: Shader Programming (Part 1) |
+| 4/7/23 || **Quiz 5 Due** |
+| 4/11/23 || Lecture 22: Shader Programming (Part 2) |
+| 4/14/23 || **Assignment 5 Due** |
 
 ## Module 6: Cameras, Rays, and 3D Interfaces
 
-| 4/11/23 || Lecture 23: Projection and Camera Models |
-| 4/13/23 || Lecture 24: Ray Casting |
-| 4/17/23 || **Quiz 6 Due** |
-| 4/18/23 || Lecture 25: Ray Casting for 3D Interaction |
-| 4/24/23 || **Assignment 6 Due** |
+| 4/13/23 || Lecture 23: Projection and Camera Models |
+| 4/18/23 || Lecture 24: Ray Casting |
+| 4/21/23 || **Quiz 6 Due** |
 
-## Wrap-Up and Review
-
-| 4/25/23 || Lecture 26: Bonus Lecture / Flex Day |
-| 4/27/23 || Lecture 27: Wrap Up |
+| 4/25/23 || Lecture 25: 3D Interaction |
+| 4/27/23 || Lecture 26: Wrap Up |
+| 4/28/23 || **Assignment 6 Due** |
 
 ## Finals Week
 
