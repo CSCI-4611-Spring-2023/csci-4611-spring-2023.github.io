@@ -56,17 +56,17 @@ Please note that this schedule is tentative and subject to change as the semeste
 | 4/6/23 || Lecture 21: Shader Programming (Part 1) |
 | 4/7/23 || **Quiz 5 Due** |
 | 4/11/23 || Lecture 22: Shader Programming (Part 2) |
-| 4/14/23 || **Assignment 5 Due** |
+| 4/16/23 || **Assignment 5 Due** |
 
 ## Module 6: Cameras, Rays, and 3D Interfaces
 
 | 4/13/23 || Lecture 23: Projection and Camera Models |
 | 4/18/23 || Lecture 24: Ray Casting |
-| 4/21/23 || **Quiz 6 Due** |
+| 4/23/23 || **Quiz 6 Due** |
 
 | 4/25/23 || Lecture 25: 3D Interaction |
 | 4/27/23 || Lecture 26: Wrap Up |
-| 4/28/23 || **Assignment 6 Due** |
+| 4/30/23 || **Assignment 6 Due** |
 
 ## Finals Week
 
